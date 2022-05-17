@@ -1,0 +1,45 @@
+suburbs;median sale price;is_expensive;safety
+Skykomish;397000;affordable;D+
+Algona;475000;affordable;B
+Pacific;498000;affordable;C+
+SeaTac;509000;affordable;D
+Tukwila;539000;affordable;F
+Des Moines;549000;affordable;D+
+Federal Way;550000;affordable;C-
+Milton;550000;affordable;C-
+Enumclaw;599000;affordable;C-
+Auburn;600000;affordable;C-
+Kent;625000;affordable;D-
+Burien;650000;affordable;D-
+Covington;730000;affordable;B
+Renton;735000;affordable;D+
+Black Diamond;775000;affordable;D-
+Snoqualmie Pass;785000;affordable;C
+Shoreline;800000;reasonable;B-
+Seattle;820000;reasonable;D
+Maple Valley;850000;reasonable;B+
+North Bend;885000;reasonable;D+
+Lake Forest Park;933000;reasonable;C
+Carnation;937000;reasonable;B
+Vashon;947000;reasonable;C+
+Duvall;998000;reasonable;B
+Kenmore;1000000;reasonable;A
+Issaquah;1100000;reasonable;C+
+Kirkland;1100000;reasonable;C
+Normandy Park;1100000;reasonable;C-
+Bothell;1105150;reasonable;C-
+Ravensdale;1200000;reasonable;B-
+Redmond;1200000;reasonable;C-
+Snoqualmie;1200000;reasonable;B+
+Fall City;1300000;reasonable;B
+Inglewood-Finn Hill;1300000;reasonable;B
+Woodinville;1500000;expensive;C-
+Newcastle;1600000;expensive;A-
+Bellevue;1625000;expensive;D-
+Beaux Arts Village;1700000;expensive;B+
+Sammamish;1700000;expensive;A
+Mercer Island;2200000;expensive;C+
+Preston;2400000;expensive;B+
+Clyde Hill;5200000;expensive;C+
+Yarrow Point;5800000;expensive;B
+Medina;6000000;expensive;C-
